@@ -4,9 +4,16 @@
 Second-year Programming student at National Technological University (UTN), focused on backend development and building practical solutions.
 
 Currently working on:
-- 🛒 Point of Sale system with inventory management
-- 🐠 Object-oriented programming projects (Java)
-- 🔧 Learning REST APIs and database design
+- 🛒**POS Inventory System**
+  Backend system with Node.js, Express and MySQL for managing products and sales.
+  👉 https://github.com/Mateoquil/pos-inventory-system
+  
+- 🔧 **REST API CRUD System**  
+  API with full CRUD operations and structured endpoints.  
+  👉 https://github.com/tu-repo  
+  
+- 🐠  **Aquarium Management API (in progress)**
+  Backend system to manage fish, habitats and feeding logic.
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -21,7 +28,7 @@ Currently working on:
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-corbetto-485442274/)
-
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mateocquil@gmail.com)
 ---
 
 💡 Open to collaboration and learning opportunities
