@@ -11,10 +11,6 @@ Currently working on:
 - 🔧 **REST API CRUD System**  
   API with full CRUD operations and structured endpoints.  
   👉 https://github.com/Mateoquil/pos-auth-module
-  
-- 🐠  **Aquarium Management API (in progress)**
-  Backend system to manage fish, habitats and feeding logic.
-  https://github.com/Mateoquil/Aquarium-Management-API
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
